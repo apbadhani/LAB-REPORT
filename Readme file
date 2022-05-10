@@ -1,0 +1,7 @@
+This is my lab report on the topic of Nonlinear Dynamics. The experiment is done by me and my lab partner. The data used in the report is recorded by me and is not manipulated.
+This report is for anyone looking for an understanding on the topic of chaos.
+The report is divided in 3 sections. 
+Part 1 is the experimental visulization of Chua circuit. It concludes with observance of chaotic double scroll attractor.
+Part 2 is Feigenbaum machine. Each sub circuit used and it's importance is discussed. The aim of this part was to calculate feigenbaum constant and observe feigenbuam map.
+Part 3 is Lorenz circuit. Here a circuit is constructed to simulate lorentz butterfly.
+For more understanding on these topics you can read the book "Nonlinear dynamics and Chaos" by Steven Strogatz.
